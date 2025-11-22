@@ -1,0 +1,13 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Carrot body -->
+  <polygon points="40,15 55,40 50,70 30,70 25,40" fill="#FF8C00"/>
+  
+  <!-- Carrot shine/highlight -->
+  <polygon points="42,20 48,35 46,60 35,60 38,25" fill="#FFB347" opacity="0.6"/>
+  
+  <!-- Leafy top -->
+  <g transform="translate(40,15)">
+    <path d="M -5,-5 Q -8,-15 -5,-20 Q 0,-18 -2,-25 Q 3,-20 5,-18 Q 8,-12 5,-5 Z" fill="#228B22"/>
+    <path d="M 5,-5 Q 8,-15 5,-20 Q 0,-18 2,-25 Q -3,-20 -5,-18 Q -8,-12 -5,-5 Z" fill="#32CD32"/>
+  </g>
+</svg>

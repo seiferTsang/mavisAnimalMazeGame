@@ -1,0 +1,10 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Banana body -->
+  <path d="M 25,30 Q 40,20 55,35 Q 60,40 58,50" stroke="#FFD700" stroke-width="16" fill="none" stroke-linecap="round"/>
+  
+  <!-- Banana shine -->
+  <path d="M 25,28 Q 40,22 55,33 Q 58,38 56,45" stroke="#FFED4E" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.8"/>
+  
+  <!-- Banana curve shadow -->
+  <path d="M 25,32 Q 40,18 55,37" stroke="#E6C200" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.4"/>
+</svg>

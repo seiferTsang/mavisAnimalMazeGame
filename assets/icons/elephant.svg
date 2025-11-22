@@ -1,0 +1,28 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ears -->
+  <ellipse cx="20" cy="25" rx="12" ry="20" fill="#8B7355"/>
+  <ellipse cx="60" cy="25" rx="12" ry="20" fill="#8B7355"/>
+  
+  <!-- Head -->
+  <ellipse cx="40" cy="48" r="30" fill="#A0826D"/>
+  
+  <!-- Trunk (curled up) -->
+  <path d="M 40 70 Q 35 75 32 74 Q 30 73 31 71" stroke="#8B7355" stroke-width="6" fill="none" stroke-linecap="round"/>
+  
+  <!-- Eyes -->
+  <circle cx="30" cy="42" r="5" fill="#FFF"/>
+  <circle cx="30" cy="42" r="2.5" fill="#000"/>
+  <circle cx="50" cy="42" r="5" fill="#FFF"/>
+  <circle cx="50" cy="42" r="2.5" fill="#000"/>
+  
+  <!-- Tusks -->
+  <ellipse cx="25" cy="58" rx="3" ry="8" fill="#FFFACD" transform="rotate(-25 25 58)"/>
+  <ellipse cx="55" cy="58" rx="3" ry="8" fill="#FFFACD" transform="rotate(25 55 58)"/>
+  
+  <!-- Body -->
+  <ellipse cx="40" cy="68" rx="22" ry="12" fill="#A0826D"/>
+  
+  <!-- Legs -->
+  <rect x="26" y="72" width="8" height="8" rx="2" fill="#8B7355"/>
+  <rect x="46" y="72" width="8" height="8" rx="2" fill="#8B7355"/>
+</svg>

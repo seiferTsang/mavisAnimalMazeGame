@@ -1,0 +1,13 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Jellyfish/Sea creature body -->
+  <ellipse cx="40" cy="32" rx="16" ry="14" fill="#FF69B4"/>
+  
+  <!-- Tentacles -->
+  <path d="M 30 44 Q 28 56 27 68" stroke="#FF1493" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 40 46 Q 40 58 40 70" stroke="#FF1493" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 50 44 Q 52 56 53 68" stroke="#FF1493" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Eyes -->
+  <circle cx="34" cy="28" r="2" fill="#000"/>
+  <circle cx="46" cy="28" r="2" fill="#000"/>
+</svg>
